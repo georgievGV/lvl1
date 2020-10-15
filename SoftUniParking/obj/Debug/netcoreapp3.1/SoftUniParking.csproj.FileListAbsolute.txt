@@ -1,0 +1,11 @@
+C:\Users\kapinka\Desktop\SoftUniParking\bin\Debug\netcoreapp3.1\SoftUniParking.exe
+C:\Users\kapinka\Desktop\SoftUniParking\bin\Debug\netcoreapp3.1\SoftUniParking.deps.json
+C:\Users\kapinka\Desktop\SoftUniParking\bin\Debug\netcoreapp3.1\SoftUniParking.runtimeconfig.json
+C:\Users\kapinka\Desktop\SoftUniParking\bin\Debug\netcoreapp3.1\SoftUniParking.runtimeconfig.dev.json
+C:\Users\kapinka\Desktop\SoftUniParking\bin\Debug\netcoreapp3.1\SoftUniParking.dll
+C:\Users\kapinka\Desktop\SoftUniParking\bin\Debug\netcoreapp3.1\SoftUniParking.pdb
+C:\Users\kapinka\Desktop\SoftUniParking\obj\Debug\netcoreapp3.1\SoftUniParking.csprojAssemblyReference.cache
+C:\Users\kapinka\Desktop\SoftUniParking\obj\Debug\netcoreapp3.1\SoftUniParking.AssemblyInfoInputs.cache
+C:\Users\kapinka\Desktop\SoftUniParking\obj\Debug\netcoreapp3.1\SoftUniParking.AssemblyInfo.cs
+C:\Users\kapinka\Desktop\SoftUniParking\obj\Debug\netcoreapp3.1\SoftUniParking.dll
+C:\Users\kapinka\Desktop\SoftUniParking\obj\Debug\netcoreapp3.1\SoftUniParking.pdb
